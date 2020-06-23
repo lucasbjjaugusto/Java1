@@ -2,6 +2,12 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="exercicio1"/>
+	<classpathentry kind="src" path="exercicioEnums"/>
+	<classpathentry kind="src" path="exercicioResolv"/>
+	<classpathentry kind="src" path="exercicioPolimorf"/>
+	<classpathentry kind="src" path="exercicioAbstrat"/>
+	<classpathentry kind="src" path="exercicioAbstrat2"/>
+	<classpathentry kind="src" path="exercicioException"/>
+	<classpathentry kind="src" path="exercicioException2"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
